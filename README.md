@@ -128,7 +128,7 @@ f1-power-bi-dashboard/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-├── F1_Dashboard.pbix          # add your report file here (or link to it)
+├── F1_Dashboard.pbix          
 ├── dax/
 │   └── measures.dax
 ├── theme/
